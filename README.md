@@ -4,3 +4,5 @@ It uses HTML5 and CSS3
 Jozek Kimono
 ##Features
 *List of daily tasks
+
+ok
